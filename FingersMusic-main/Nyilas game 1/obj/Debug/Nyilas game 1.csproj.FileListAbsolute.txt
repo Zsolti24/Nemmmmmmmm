@@ -1,0 +1,20 @@
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\bin\Debug\Nyilas game 1.exe.config
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\bin\Debug\Nyilas game 1.exe
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\bin\Debug\Nyilas game 1.pdb
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas game 1.csprojAssemblyReference.cache
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas_game_1.Form1.resources
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas_game_1.Properties.Resources.resources
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas game 1.csproj.GenerateResource.cache
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas game 1.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas game 1.exe
+C:\Users\Szabolcs\source\repos\Nyilas game 1\Nyilas game 1\obj\Debug\Nyilas game 1.pdb
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\bin\Debug\Nyilas game 1.exe.config
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\bin\Debug\Nyilas game 1.exe
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\bin\Debug\Nyilas game 1.pdb
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas game 1.csproj.AssemblyReference.cache
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas_game_1.Form1.resources
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas_game_1.Properties.Resources.resources
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas game 1.csproj.GenerateResource.cache
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas game 1.csproj.CoreCompileInputs.cache
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas game 1.exe
+C:\Users\TZS\Desktop\FingersMusic-main\Nyilas game 1\obj\Debug\Nyilas game 1.pdb
